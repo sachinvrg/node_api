@@ -1,0 +1,26 @@
+{
+  "name": "react-express-elb",
+  "version": "1.0.0",
+  "description": "\"# react-express-elb\"",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinvrg/react-express-elb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinvrg/react-express-elb/issues"
+  },
+  "homepage": "."
+}
